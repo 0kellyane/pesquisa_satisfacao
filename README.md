@@ -1,7 +1,3 @@
-
-markdown
-Copiar
-Editar
 # 🎬 Pesquisa de Satisfação – Cine Biblioteca Maria Dolores
 
 Este repositório apresenta a análise de dados de uma **pesquisa de satisfação** realizada no **Cine Biblioteca**, projeto da **Biblioteca Comunitária Maria Dolores**, entre os anos de **2024 e 2025**, com a participação de **152 pessoas** da comunidade.
